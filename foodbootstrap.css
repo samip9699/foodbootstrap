@@ -1,0 +1,12 @@
+
+.sam{
+    background-image: url(backimg.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.sam8{
+      background-color: rgb(80, 82, 85);
+    height: 350px;
+    width: 1200px;
+}
